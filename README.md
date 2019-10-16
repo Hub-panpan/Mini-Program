@@ -2,7 +2,7 @@
 
 视频教程：https://www.bilibili.com/video/av11938917/
 
-## 1.【微信小程序 - 快递查询 】panpan-test-1 
+## 1.【微信小程序 - 快递查询 】快递查询
 
 
 ## 2.【微信小程序 - springboot后台获取用户的openid】
