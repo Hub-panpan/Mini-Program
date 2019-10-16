@@ -1,11 +1,11 @@
-## 首先这是一个小程序的集合
+## Peak-pan 小程序的集合
 
 视频教程：https://www.bilibili.com/video/av11938917/
 
-## 1.panpan-test-1 快递查询 
+## 1.【微信小程序 - 快递查询 】panpan-test-1 
 
 
-## 2.【微信小程序】springboot后台获取用户的openid
+## 2.【微信小程序 - springboot后台获取用户的openid】
 
 ### 参考链接
 https://www.cnblogs.com/to-red/p/11563854.html
@@ -16,7 +16,7 @@ openid可以标识一个用户，session_key会变
 ```
 获取到code：011iPsLJ1iD6J30VoGMJ1o9nLJ1iPsLn
 {"session_key":"ZtCCWMiD32uwzjpcEaQpMQ==",
-"openid":"oHuPj5EnG_ISAlXH3W6Bh_xMlHKA"}
+"openid":"HuPj5EnG_ISAlXH3W6Bh_xMlHKA"}
 oHuPj5EnG_ISAlXH3W6Bh_xMlHKA
 Creating a new SqlSession
 SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2d13e041]
@@ -36,7 +36,7 @@ Closing non transactional SqlSession [org.apache.ibatis.session.defaults.Default
 ```
 获取到code：071juEPG0f07mc2WooOG0aTCPG0juEPu
 {"session_key":"VzE4IO+Ken90SSubzgAToA==",
-"openid":"oHuPj5EnG_ISAlXH3W6Bh_xMlHKA"}
+"openid":"HuPj5EnG_ISAlXH3W6Bh_xMlHKA"}
 oHuPj5EnG_ISAlXH3W6Bh_xMlHKA
 Creating a new SqlSession
 SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@74837794] was not registered for synchronization because synchronization is not active
