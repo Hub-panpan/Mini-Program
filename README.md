@@ -10,6 +10,8 @@
 ### 参考链接
 https://www.cnblogs.com/to-red/p/11563854.html
 
+https://blog.csdn.net/yanpengfeil/article/details/85982935
+
 openid可以标识一个用户，session_key会变
 执行1次
 
