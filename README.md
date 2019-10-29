@@ -50,3 +50,13 @@ Closing non transactional SqlSession [org.apache.ibatis.session.defaults.Default
 2019-10-12 19:37:42.815  INFO 11152 --- [nio-8888-exec-9] c.s.s.exam.router.RouterController       : 发送消息: {"data":"{\"result\":\"fail\",\"msg\":\"密码输入有误!\"}","msg":"登录验证","status":"200"}
 ```
 
+## 3.【微信小程序 - 让你的个人微信小程序，更出彩~~ 犸良无缝衔接微信小程序】
+
+- 如何安装npm
+- 如何利用npm下载插件
+- https://www.zcool.com.cn/article/ZMTAwMTI3Mg==.html
+- https://github.com/landn172/lottie-miniapp
+
+- https://blog.csdn.net/qq_32852047/article/details/90234484
+
+简直了 看起来还不错呢！

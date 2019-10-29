@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "lottie": "/mini_npm/miniprogram_npm/lottie-miniapp/component/lottie"
+  }
+}
