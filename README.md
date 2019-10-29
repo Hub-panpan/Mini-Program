@@ -62,3 +62,14 @@ Closing non transactional SqlSession [org.apache.ibatis.session.defaults.Default
 - https://blog.csdn.net/qq_32852047/article/details/90234484
 
 简直了 看起来还不错呢！
+
+## 4.【微信小程序 - 左右滑动幻灯】
+
+- https://zhuanlan.zhihu.com/p/40674694?utm_source=wechat_session&utm_medium=social&utm_oi=793804790256771072
+
+
+
+
+
+
+
