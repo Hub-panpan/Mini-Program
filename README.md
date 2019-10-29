@@ -10,6 +10,8 @@
 ### 参考链接
 https://www.cnblogs.com/to-red/p/11563854.html
 
+https://blog.csdn.net/yanpengfeil/article/details/85982935
+
 openid可以标识一个用户，session_key会变
 执行1次
 
@@ -23,7 +25,7 @@ SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@2d13e041]
 was not registered for synchronization because synchronization is not active
 JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@25a9b970] will not be managed by Spring
 ==>  Preparing: select ID AS id, UNAME AS uname, UIDCARD AS uidcard, UIDCARDMODFIYTIME AS uidcardmodfiytime, USER_UNIT_ID AS userUnitId, UNITMODFIYTIME AS unitmodfiytime, USER_DEPARTMENT_ID AS userDepartmentId, MAJOR_ID AS majorId from T_USER_INFO_ISC where id = ? 
-==> Parameters: 17854168706(String)
+==> Parameters: 17854168000(String)
 <==    Columns: ID, UNAME, UIDCARD, UIDCARDMODFIYTIME, USERUNITID, UNITMODFIYTIME, USERDEPARTMENTID, MAJORID
 <==    Row: 17854168706, panpan, 123456, null, null, null, null, m10001
 <==    Total: 1
@@ -42,7 +44,7 @@ Creating a new SqlSession
 SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@74837794] was not registered for synchronization because synchronization is not active
 JDBC Connection [com.alibaba.druid.proxy.jdbc.ConnectionProxyImpl@25a9b970] will not be managed by Spring
 ==>  Preparing: select ID AS id, UNAME AS uname, UIDCARD AS uidcard, UIDCARDMODFIYTIME AS uidcardmodfiytime, USER_UNIT_ID AS userUnitId, UNITMODFIYTIME AS unitmodfiytime, USER_DEPARTMENT_ID AS userDepartmentId, MAJOR_ID AS majorId from T_USER_INFO_ISC where id = ? 
-==> Parameters: 17854168706(String)
+==> Parameters: 17854160000(String)
 <==    Columns: ID, UNAME, UIDCARD, UIDCARDMODFIYTIME, USERUNITID, UNITMODFIYTIME, USERDEPARTMENTID, MAJORID
 <==        Row: 17854168706, panpan, 123456, null, null, null, null, m10001
 <==      Total: 1
