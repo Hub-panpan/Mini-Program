@@ -1,0 +1,7 @@
+<form class="form_item" bindsubmit='gorRunnerLobby' report-submit='true' data-type="1">
+ <button class="button" form-type='submit'>
+  获取formid
+ </button>
+</form>
+<view>formid： {{formid}}</view>
+<view>openid： {{openid}}</view>
