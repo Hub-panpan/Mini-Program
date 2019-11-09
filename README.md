@@ -68,6 +68,7 @@ Closing non transactional SqlSession [org.apache.ibatis.session.defaults.Default
 
 - https://zhuanlan.zhihu.com/p/40674694?utm_source=wechat_session&utm_medium=social&utm_oi=793804790256771072
 
+- ![](./模板消息通知实践/succeed/成功截图.jpg)
 
 ## 5.【微信小程序 - 模板消息的初体验】
 
