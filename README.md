@@ -61,8 +61,7 @@ Closing non transactional SqlSession [org.apache.ibatis.session.defaults.Default
 
 - https://blog.csdn.net/qq_32852047/article/details/90234484
 
-- ![](./犸良小程序动画/readme/小草动画.mp4)
-- 
+
 简直了 看起来还不错呢！
 
 ## 4.【微信小程序 - 左右滑动幻灯】
