@@ -74,5 +74,25 @@ Closing non transactional SqlSession [org.apache.ibatis.session.defaults.Default
 - 程序包中是分离独立的
 - 已经被集成到在线考试小程序中去
 
+## 6.【微信小程序 - 分享受海报到朋友圈】
+- 使用画布画出图片 分享小程序码
+- ![](./分享受海报到朋友圈/yanshi.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
